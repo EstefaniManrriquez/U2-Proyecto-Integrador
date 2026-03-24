@@ -45,7 +45,7 @@ Se ha seleccionado una paleta de colores específicos para reproducir fielmente 
  * Estrella (Cuerpo): Hex #FFF04B, RGB (255, 240, 75)
  * Bordes: Hex #000000, RGB (0, 0, 0)
 
-   ![colores](images/paletadecolores.png)
+   ![colores](imagenes/paletadecolores.png)
    
 # 4. Proceso de Animación en Blender (How To)
 El flujo de trabajo para la animación frame X frame en Blender con Grease Pencil es el siguiente:
