@@ -34,7 +34,7 @@ Para garantizar la consistencia visual del personaje en cada fotograma, se ha es
    * En el impacto (Suelo): Compresión en el eje vertical (Z) y expansión en el horizontal (X) para simular el rebote (ej. Z: 0.9, X: 1.1).
    * En el aire (Salto): Estiramiento en el eje vertical (Z) y compresión en el horizontal (X) para simular el impulso (ej. Z: 1.1, X: 0.9).
 
-   ![Imagen de referencia](imágenes/referencia.png)
+   ![Imagen de referencia](imagenes/referencia.png)
      
 # 3. Paleta de Colores
 Se ha seleccionado una paleta de colores específicos para reproducir fielmente la estética de Kirby:
