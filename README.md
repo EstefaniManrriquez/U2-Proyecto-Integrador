@@ -54,7 +54,7 @@ El flujo de trabajo para la animación frame X frame en Blender con Grease Penci
 Se elimina el trazo predeterminado y se agrega un nuevo Grease Pencil en blanco.
 Se configuran materiales específicos para trazos y rellenos de colores para utilizar durante la animación.
 
- ![pencil](images/pencil.png)
+ ![pencil](imagenes/pencil.png)
 
    ## 4.2 Importar la imagen de referencia como fondo.
 Se importa una imagen de referencia, se ajusta su tamaño y se reduce su opacidad para facilitar el calcado.
@@ -63,7 +63,7 @@ Se dibujan los 7 fotogramas clave de la secuencia, dibujando primero los trazos 
  * Boceto (Draft):
    * En una capa de Grease Pencil para bocetos, dibujar las esferas base de Kirby y la forma general de la estrella para marcar el ritmo del movimiento en los fotogramas clave.
   
-      ![Tiempo](images/tiempo.png)
+      ![Tiempo](imagenes/tiempo.png)
      
  ## 4.4 Animación (Frames):
    * En una capa de Grease Pencil para animación, dibujar los fotogramas clave (Keyframes) basándose en la guía de poses (A, B, C, D).
@@ -81,7 +81,7 @@ Efectos Finales: Se añaden efectos de sombra y luz (ribete) para dar profundida
  
 # 5. Resultados.
 
-![Kyrby](images/kyrby.png)
+![Kyrby](imagenes/kyrby.png)
 
 # 6. Conclusión
 Este proyecto de animación 2D en Blender ha permitido explorar la creación de un ciclo de caminata único para un personaje icónico como Kirby. Al seguir la guía de poses y la paleta de colores establecidas, y aplicar las técnicas de "Squash & Stretch" y la interpolación en Blender, se ha logrado recrear el movimiento de rebote y rotación característico de Kirby sobre su estrella.
